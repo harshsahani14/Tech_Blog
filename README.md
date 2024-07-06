@@ -16,7 +16,7 @@ Welcome to the Tech_Blog repository! This project is designed to create a tech b
 ReactJs
 ,Tailwind CSS
 ,Context API
- React routers
+,React routers
 
 ## Installation
 
