@@ -1,25 +1,22 @@
-To generate a README file for the "Tech_Blog" repository, we'll create a template based on common sections found in README files. You can modify the details as needed:
-
----
 
 # Tech_Blog
 
-Welcome to the Tech_Blog repository! This project is designed to create a tech blog website where users can read and write blog posts on various technology topics.
+Welcome to the Tech_Blog repository! This project is designed to create a tech blog website where users can read and interact with blog posts on various technology topics.
 
 ## Table of Contents
 
-- [TechStack](#TechStack)
+- [TechUsed](#TechStack)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
-## Tech Stack
--ReactJs
--Tailwind CSS
--Context API
--React routers
+## Tech Used
+ReactJs
+ Tailwind CSS
+ Context API
+ React routers
 
 ## Installation
 
