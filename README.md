@@ -14,8 +14,8 @@ Welcome to the Tech_Blog repository! This project is designed to create a tech b
 
 ## Tech Used
 ReactJs
- Tailwind CSS
- Context API
+,Tailwind CSS
+,Context API
  React routers
 
 ## Installation
@@ -23,18 +23,25 @@ ReactJs
 To get a local copy up and running follow these simple steps:
 
 1. Clone the repository
+   
    ```sh
    git clone https://github.com/harshsahani14/Tech_Blog.git
    ```
-2. Navigate to the project directory
+   
+3. Navigate to the project directory
+   
    ```sh
    cd Tech_Blog
    ```
-3. Install dependencies
+   
+5. Install dependencies
+   
    ```sh
    npm install
    ```
-4. Start the server
+   
+7. Start the server
+   
    ```sh
    npm start
    ```
